@@ -7,9 +7,9 @@ A ideia principal é que, mesmo sendo algo abstrato, o software se tornou tão i
 ## Comentário sobre o segundo trecho do livro Software Engineering at Google, Oreilly
 >O segundo trecho comenta que a engenharia de software não se limita a escrever código. Ela engloba todas as ferramentas e processos necessários para manter esse código funcional e adaptável ao longo do tempo. O foco principal não está apenas em fazer o software funcionar no presente, mas em garantir que ele permaneça eficiente diante de futuras mudanças e expansões. <br>
 Três princípios fundamentais norteiam essa abordagem: <br>
--Tempo e Mudança: como garantir que o código evolua sem apresentar falhas <br>
--Escala e Crescimento: como adaptar o sistema e a equipe ao crescimento do projeto <br>
--Trade-offs e Custos: como tomar decisões equilibradas considerando diferentes necessidades
+•Tempo e Mudança: como garantir que o código evolua sem apresentar falhas. <br> Exemplo: um aplicativo de clima precisa adicionar previsão por hora. Se o código foi bem organizado desde o início, a nova funcionalidade é integrada rapidamente. Caso contrário, mexe em uma parte e quebra outra. <br>
+•Escala e Crescimento: como adaptar o sistema e a equipe ao crescimento do projeto. <br> Exemplo: uma rede social pequena funciona bem com um servidor. Se ficar popular e não estiver preparada, trava com muitos usuários online ao mesmo tempo. <br>
+•Trade-offs e Custos: como tomar decisões equilibradas considerando diferentes necessidades. <br> Exemplo: Um jogo mobile é lançado rápido com alguns bugs para aproveitar as férias. Depois, os jogadores reclamam e os devs precisam correr para consertar.
 
 ## Trade offs
 >Em projetos de software, trade-offs são escolhas necessárias em que melhorar um aspecto do sistema quase sempre afeta outro negativamente. Isso acontece porque características importantes como velocidade, segurança, facilidade de manutenção e usabilidade muitas vezes competem entre si. <br>
