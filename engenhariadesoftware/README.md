@@ -25,16 +25,68 @@
 </p>
 
 <h2>⿻ ⭒ Diagrama de classes UML</h2>
+<h3> Diagrama para o código 1 java </h3>
 <img width="1469" height="785" alt="Diagrama de classes UML" src="https://github.com/user-attachments/assets/dc53f530-81fe-4d97-97ec-91f3ca06bef0" />    <br>
-<h2>⌨ ⭒ Código em java</h2>
+<h3> Diagrama para o código 2 java </h3>
+<img width="1521" height="784" alt="DiagramaUML" src="https://github.com/user-attachments/assets/6f011491-8699-440b-8449-de1c659ed2ba" />
+
+
+<h2>⌨ ⭒ Código em java 1</h2>
 <h3>Class ClinicaMedica</h3>
 <img width="1460" height="731" alt="Class ClinicaMedica" src="https://github.com/user-attachments/assets/2f51e2d9-f49d-4fa5-a630-e9634a8b866d" />
 <img width="1458" height="822" alt="Class ClinicaMedica" src="https://github.com/user-attachments/assets/5c040ad8-26ab-4e3d-9863-93273fd7e037" />    
+<br>
+
 <h3>Class Paciente</h3>
 <img width="1472" height="556" alt="Class Paciente" src="https://github.com/user-attachments/assets/cff32b4b-bf13-4d3c-92ec-66f876f529ad" />
 <br>
+
 <h3>Class Medico</h3>
 <img width="1459" height="551" alt="Class Medico" src="https://github.com/user-attachments/assets/f8883ad1-36ce-4df4-b990-78cff2095dfe" />
 <br>
+
 <h3>Class Teste2</h3>
 <img width="1310" height="727" alt="Class Teste2" src="https://github.com/user-attachments/assets/87ef823c-7588-4c7e-8770-f6c512c779d2" />
+<br>
+
+<h2>⌨ ⭒ Código em java 2</h2>
+<h3>Class Hospede</h3>
+<img width="1535" height="556" alt="Hospede" src="https://github.com/user-attachments/assets/2bf0d95e-f7db-44e9-8d68-39e74f1bffb9" />
+<br>
+
+<h3>Class Quarto</h3>
+<img width="1535" height="654" alt="Quarto" src="https://github.com/user-attachments/assets/8b851f7c-4fd2-44ed-98a5-2ae40d7f6258" />
+<br>
+
+<h3>Class MoneyUtil</h3>
+<img width="1504" height="314" alt="MoneyUtil" src="https://github.com/user-attachments/assets/fd22faba-6366-48da-8618-b7e35e32dd45" />
+<br>
+
+<h3>Class Reserva</h3>
+<img width="1507" height="877" alt="Reserva" src="https://github.com/user-attachments/assets/9e71dbd0-2463-4c16-834e-e61a9123a5cd" />
+<img width="1503" height="541" alt="Reserva2" src="https://github.com/user-attachments/assets/f8ad5207-ae8e-4b40-9b86-43f6dececc38" />
+<br>
+
+<h3>Class ReservadeHotel</h3>
+<img width="1534" height="872" alt="sistema" src="https://github.com/user-attachments/assets/f76292f8-91c5-4e82-aec5-ba722e20236e" />
+<img width="1530" height="839" alt="Sistema2" src="https://github.com/user-attachments/assets/d3deb52c-1b0f-4b06-b920-64880cd122a4" />
+<img width="1528" height="822" alt="Sistema3" src="https://github.com/user-attachments/assets/8db60d94-2213-43ac-bd43-e502c2c08614" />
+<img width="1531" height="843" alt="Sistema4" src="https://github.com/user-attachments/assets/869998d8-8d30-4827-9c37-abc5b1580577" />
+<img width="1517" height="437" alt="Sistema5" src="https://github.com/user-attachments/assets/a9dffaf8-5f94-4e0f-9566-4ef41cc187fd" />
+<br>
+
+<h3>Class Teste</h3>
+<img width="1535" height="855" alt="TestA" src="https://github.com/user-attachments/assets/3ad4a50c-ac58-494e-8ec8-d4f18741cc78" />
+<img width="1502" height="126" alt="TestA2" src="https://github.com/user-attachments/assets/9624660d-8ed1-41b3-8091-9c1252533f6d" />
+<br>
+
+<h3>Class TesteComSaida</h3>
+<img width="1533" height="873" alt="Teste com saída" src="https://github.com/user-attachments/assets/07f87dc9-8812-4c1f-b86c-36d72ee121ea" />
+<img width="1531" height="838" alt="Teste com saída" src="https://github.com/user-attachments/assets/1addf34b-426c-4dab-acaa-094a24ca14e8" />
+<img width="1535" height="562" alt="Teste com saída" src="https://github.com/user-attachments/assets/d0a9da8e-4ac7-42ff-a103-ff924466401b" />
+<h4> Saída </h4>
+<img width="1534" height="598" alt="Saída" src="https://github.com/user-attachments/assets/fbfab92f-1ae5-4f83-b946-e93655dc8520" />
+<img width="1543" height="288" alt="Saída" src="https://github.com/user-attachments/assets/b2ea4db0-ddc5-48a0-b59d-7000da4f489b" />
+
+
+
