@@ -78,15 +78,4 @@
 <h3>Class Teste</h3>
 <img width="1535" height="855" alt="TestA" src="https://github.com/user-attachments/assets/3ad4a50c-ac58-494e-8ec8-d4f18741cc78" />
 <img width="1502" height="126" alt="TestA2" src="https://github.com/user-attachments/assets/9624660d-8ed1-41b3-8091-9c1252533f6d" />
-<br>
-
-<h3>Class TesteComSaida</h3>
-<img width="1533" height="873" alt="Teste com saída" src="https://github.com/user-attachments/assets/07f87dc9-8812-4c1f-b86c-36d72ee121ea" />
-<img width="1531" height="838" alt="Teste com saída" src="https://github.com/user-attachments/assets/1addf34b-426c-4dab-acaa-094a24ca14e8" />
-<img width="1535" height="562" alt="Teste com saída" src="https://github.com/user-attachments/assets/d0a9da8e-4ac7-42ff-a103-ff924466401b" />
-<h4> Saída </h4>
-<img width="1534" height="598" alt="Saída" src="https://github.com/user-attachments/assets/fbfab92f-1ae5-4f83-b946-e93655dc8520" />
-<img width="1543" height="288" alt="Saída" src="https://github.com/user-attachments/assets/b2ea4db0-ddc5-48a0-b59d-7000da4f489b" />
-
-
 
