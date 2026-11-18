@@ -49,4 +49,4 @@ A implementação foi planejada na branch `experimental`, respeitando a estrutur
 
 ## 5. Considerações finais
 
-Minha participação como desenvolvedora inclui a elaboração de uma melhoria para o controle das interações com a IA. A proposta de cancelamento busca oferecer ao usuário mais autonomia durante o processamento de perguntas e envolve mudanças coordenadas entre interface, controle de sessão e serviço de inteligência artificial. A descrição da funcionalidade deverá ser atualizada após sua implementação e validação.
+Minha participação como desenvolvedora inclui a elaboração de uma melhoria para o controle das interações com a IA. A proposta de cancelamento busca oferecer ao usuário mais autonomia durante o processamento de perguntas e envolve mudanças coordenadas entre interface, controle de sessão e serviço de inteligência artificial. 
