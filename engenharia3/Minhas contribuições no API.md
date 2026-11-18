@@ -3,6 +3,7 @@
 **Integrante:** Wendy Santos Mininel  
 **Equipe:** TeamMinerva  
 **Atuação:** Dev Team
+
 **Repositório:** https://github.com/TeamMinerva/PRO4TECH-API
 
 ## 1. Contexto do projeto
